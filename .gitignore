@@ -1,0 +1,6 @@
+.idea
+lib
+settings
+Mailbot.iml
+# Project exclude paths
+/out/
